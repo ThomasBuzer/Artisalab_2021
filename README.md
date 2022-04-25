@@ -6,10 +6,10 @@ Le sujet traité par notre équipe était la fabrication de 5 trophée pour le c
 Nos réalisations nous ont octroyé la **première place** dans le cadre du concours regroupant 6 équipes.
 
 Les catégories et entreprises gagnantes étaient :
-- Métier : [Noé Atelier de la Mer]()
-- Procédé de Production : [Atelier Paelis](https://www.paelis.com/fr)
-- Produit : [Joker Bike](https://www.jokerbike.fr/)
+- Métier : [Noé Atelier de la Mer](./Noé atelier de la mer/)
+- Procédé de Production : [Atelier Paelis](./Atelier PAELIS/)
+- Produit : [Joker Bike](./Joker_Bike/)
 - Technologie : [Blicko](./Blicko/)
-- Prix du Public : [La cuisine végé de Flo](http://lacuisinevegedeflo.com/)
+- Prix du Public : [La cuisine végé de Flo](./La cuisine végé de Flo/)
 
 ![Trophées](./20211129_181609.jpg)
