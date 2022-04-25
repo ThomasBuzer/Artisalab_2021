@@ -7,7 +7,7 @@ Nos réalisations nous ont octroyé la **première place** dans le cadre du conc
 
 Les catégories et entreprises gagnantes étaient :
 - Métier : [Noé Atelier de la Mer](./Noé_atelier_de_la_mer/)
-- Procédé de Production : [Atelier Paelis]("./Atelier_PAELIS/")
+- Procédé de Production : [Atelier Paelis](./Atelier_PAELIS/)
 - Produit : [Joker Bike](./Joker_Bike/)
 - Technologie : [Blicko](./Blicko/)
 - Prix du Public : [La cuisine végé de Flo](./La_cuisine_végé_de_Flo/)
