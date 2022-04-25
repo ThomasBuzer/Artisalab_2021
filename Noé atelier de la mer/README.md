@@ -4,4 +4,4 @@ Catégorie Métier
 
 Le thème marin a inspiré le **socle** en forme de bateau. Un filet de pêche confectionné en **crochet** et dans lequel on retrouve la pêche du jour a été ajouté à la composition.
 
-!(Trophée)[./20211129_1811511.jpg]
+![Trophée](./20211129_1811511.jpg)
