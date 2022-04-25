@@ -11,3 +11,5 @@ Les catégories et entreprises gagnantes étaient :
 - Produit : [Joker Bike](https://www.jokerbike.fr/)
 - Technologie : [Blicko](https://www.blicko.fr/)
 - Prix du Public : [La cuisine végé de Flo](http://lacuisinevegedeflo.com/)
+
+![Trophées](./20211129_181609.jpg)
