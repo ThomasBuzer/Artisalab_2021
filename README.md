@@ -6,7 +6,7 @@ Le sujet traité par notre équipe était la fabrication de 5 trophée pour le c
 Nos réalisations nous ont octroyé la **première place** dans le cadre du concours regroupant 6 équipes.
 
 Les catégories et entreprises gagnantes étaient :
-- Métier : [Noé Atelier de la Mer](./Noé atelier de la mer/)
+- Métier : [Noé Atelier de la Mer](./Noé\ atelier\ de\ la\ mer/)
 - Procédé de Production : [Atelier Paelis](./Atelier PAELIS/)
 - Produit : [Joker Bike](./Joker_Bike/)
 - Technologie : [Blicko](./Blicko/)
